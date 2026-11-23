@@ -4,95 +4,95 @@
   "updated": "2026-11",
   "exhibits": {
     "img-001": {
-      "visible": false,
-      "title": "",
-      "date": "",
+      "visible": true,
+      "title": "初见 · 第 1 幅",
+      "date": "2026.09.29 — 09.30",
       "from": "",
-      "desc": ""
+      "desc": "粉丝团灯牌、星光铃铛、人气票、电影票、牛哇牛哇、好运柚叶、棉花糖、渡口衔风、故邑呈笺"
     },
     "img-002": {
-      "visible": false,
-      "title": "",
-      "date": "",
+      "visible": true,
+      "title": "初见 · 第 2 幅",
+      "date": "2026.09.30 — 10.01",
       "from": "",
-      "desc": ""
+      "desc": "幸运泡泡、绮彩权杖、你真好看、爱心抱枕、打call、小花花、水晶鞋、薯条、饭团"
     },
     "img-003": {
-      "visible": false,
-      "title": "",
-      "date": "",
+      "visible": true,
+      "title": "初见 · 第 3 幅",
+      "date": "2026.10.01 — 10.05",
       "from": "",
-      "desc": ""
+      "desc": "梦雾纸签、赤旌逐风、巷陌归灯、告白花束、情书、甜滋滋、千纸鹤、比心、星星之火"
     },
     "img-004": {
-      "visible": false,
-      "title": "",
-      "date": "",
+      "visible": true,
+      "title": "初见 · 第 4 幅",
+      "date": "2026.10.05 — 10.12",
       "from": "",
-      "desc": ""
+      "desc": "喜欢你、鼓鼓掌、心动卡、醒目留言、棒棒糖、心动时刻、福灵小兽、流星滑板、花式夸夸"
     },
     "img-005": {
-      "visible": false,
-      "title": "",
-      "date": "",
+      "visible": true,
+      "title": "初见 · 第 5 幅",
+      "date": "2026.10.13 — 10.28",
       "from": "",
-      "desc": ""
+      "desc": "拾星入怀、星尘烟花、友谊的小船、冰晶吊坠、做我的小猫、送花花、专属灯牌、雅会请柬、幽灵糖球"
     },
     "img-006": {
-      "visible": false,
-      "title": "",
-      "date": "",
+      "visible": true,
+      "title": "初见 · 第 6 幅",
+      "date": "2026.10.29 — 11.07",
       "from": "",
-      "desc": ""
+      "desc": "黑猫提灯、玫瑰请柬、蝠影马车、南瓜假面、开播纪念、浪漫城堡、战术空翻、元气满格、亲密之旅"
     },
     "img-007": {
-      "visible": false,
-      "title": "",
-      "date": "",
+      "visible": true,
+      "title": "初见 · 第 7 幅",
+      "date": "2026.11.08 — 11.09",
       "from": "",
-      "desc": ""
+      "desc": "勇气加载、摸摸头、贴贴、喜欢你（钟意你）、捏捏小脸、好运礼花、许愿星星、风铃寄愿、干杯"
     },
     "img-008": {
-      "visible": false,
-      "title": "",
-      "date": "",
+      "visible": true,
+      "title": "初见 · 第 8 幅",
+      "date": "2026.11.09 — 11.12",
       "from": "",
-      "desc": ""
+      "desc": "惊喜来袭、星语水晶球、心愿彩带、666、这个好诶、心动橱窗、嘻嘻哈哈、乐园星球、B坷垃"
     },
     "img-009": {
-      "visible": false,
-      "title": "",
-      "date": "",
+      "visible": true,
+      "title": "初见 · 第 9 幅",
+      "date": "2026.11.14 — 11.23",
       "from": "",
-      "desc": ""
+      "desc": "绮梦衣橱、干杯之旅、旋转木马、花式夸夸（闪光应援）、流星雨、钻石戒指、灿烂烟花"
     },
     "img-010": {
-      "visible": false,
-      "title": "",
-      "date": "",
+      "visible": true,
+      "title": "来时路 · 总览",
+      "date": "2026.09.29 — 11.23",
       "from": "",
-      "desc": ""
+      "desc": "开播以来收到的 83 种礼物，5097 份心意。"
     },
     "model-001": {
-      "visible": false,
-      "title": "",
-      "date": "",
-      "from": "",
-      "desc": ""
+      "visible": true,
+      "title": "梦游仙境",
+      "date": "2026.11.18",
+      "from": "来自 emanon66",
+      "desc": "珍品 · 3000 电池"
     },
     "model-002": {
-      "visible": false,
-      "title": "",
-      "date": "",
-      "from": "",
-      "desc": ""
+      "visible": true,
+      "title": "第一位提督",
+      "date": "2026.11.22",
+      "from": "来自 梓__Maki",
+      "desc": "珍品 · 大航海"
     },
     "model-003": {
-      "visible": false,
-      "title": "",
-      "date": "",
-      "from": "",
-      "desc": ""
+      "visible": true,
+      "title": "第一位舰长",
+      "date": "2026.09.30",
+      "from": "来自 林桀啊",
+      "desc": "开播第二天的清晨，第一位舰长登船。"
     }
   }
 }
